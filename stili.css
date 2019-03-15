@@ -1,0 +1,188 @@
+
+
+
+#main {
+  margin-top: 5em;
+  background-color: rgba(0, 0, 0, 0.69);
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  top: 0;
+  background-color: #111;
+  text-align: left;
+  height: 5em;
+  width: 100%;
+  border-color: #553282;
+  position: fixed;
+  z-index: 2;
+}
+#navbutton{
+  height: 40px;
+  width: 53px;
+  position: absolute;
+  right: 5%;
+  top: 32%;
+}
+#navbutton:hover {
+background-color: #a90eb8;
+}
+
+#navimg{
+  position: absolute;
+  font-family: 'Paytone One', sans-serif;
+  font-size: 45px;
+  color: #f1f1f1;
+  height: 40px;
+  width: 53px;
+  margin: 0 auto;
+  bottom: 14px;
+}
+.sidenav {
+  height: 100%; 
+  width: 0; 
+  position: fixed; 
+  z-index: 2;
+  top: 0; 
+  right: 0;
+  background-color: #111; 
+  overflow-x: hidden; 
+  padding-top: 60px;
+  transition: 0.5s; 
+}
+
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+
+h1 {
+  color: white;
+  position: absolute;
+  width: 100%;
+  font-family: 'Paytone One', sans-serif;
+}
+
+#pinkline{
+  background-color: #ec13ff;
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  top:32%
+}
+.menu{
+  position: relative;
+  top: 10em;
+
+}
+#bandfoto{
+ position: relative;
+  top:2em;
+}
+.menu ul{
+  list-style: none;
+}
+.menu li{
+ 
+  display: inline;
+}
+.band{
+border-radius: 50%;
+border-color: #ec13ff;
+border-style: solid;
+height: 200px;
+width: 200px;
+}
+
+
+.bandname{
+  color: white;
+font-family: 'Paytone One', sans-serif;
+position: absolute;
+}
+
+
+body {
+margin: 0 auto;
+  display: block;
+  position: relative;
+  width: 1360px;
+  height: 1000px;
+  padding-bottom: 12%;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  background-color: #111;
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  display: inline-block;
+  z-index: 1;
+  font-family: 'Paytone One', sans-serif;
+}
+
+.video {
+    position: relative;
+    top: 10%;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    height: 250px;
+    width: 500px;
+}
+.header{
+  position: relative;
+  top:2em;
+  color:white;
+  font-family: 'Paytone One', sans-serif;
+}
+
+#container{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#facebook {
+  left: 2px;
+  position: absolute;
+  top: 0% ;
+  font-family: "UD Digi Kyokasho NK-R", "Verdana", "Arial";
+  color: #ec13ff;
+}
+
+.content{
+  background-color:rgb(155, 59, 139);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: auto auto;
+  text-align: center;
+}
+

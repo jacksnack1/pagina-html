@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Sex Excess</title>
+    <link type="text/css" rel="stylesheet" href="file:///C:/Users/Dieci/Documents/PAGINA%20HTML%20SCUOLA/stili.css">
+  </head>
+  <body>
+    <div id="main">
+      <header>
+        <h1 id="titolo"> SEX EXCESS </h1>
+      </header>
+      <article class="stuff"> <iframe src="https://www.youtube.com/embed/NPNhvquuHFw?autoplay=1&amp;controls=0"
+          style="width: 1000px;"> </iframe> </article>
+      <div style="text-align: left;">
+        <article class="stuff"> <img height="42" width="42"> <img height="42"
+            width="42"> <img height="42" width="42"> <img height="42" width="42">
+        </article>
+      </div>
+    </div>
+    <footer> <a href="https://www.facebook.com/SEX-EXCESS-525633194193305" id="facebook">FaceBook</a>
+    </footer>
+  </body>
+</html>
